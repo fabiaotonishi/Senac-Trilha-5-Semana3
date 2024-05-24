@@ -1,3 +1,4 @@
+--Atividades da semana 3
 -- Cadastrar o novo colaborador Fulano de Tal no novo projeto BI para exercer o papel de Especialista de Negócios.
 --1) Colaborador:
 INSERT INTO brh.colaborador (matricula, cpf, nome, salario, departamento, cep, logradouro)
